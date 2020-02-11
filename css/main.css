@@ -1,0 +1,31 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+    height: 100vh;
+}
+
+.container-fluid{
+    height: 100vh;
+    display: block; 
+    position: relative;
+    overflow: hidden;
+   }
+img{
+    width:500px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+  .footer {
+    position: absolute;
+    width: 100vw;
+    bottom: 0;  
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: transparent;
+  }
+  .custom-footer{
+      color: #ffffff !important;
+      opacity: 0.75;
+  }
+  
