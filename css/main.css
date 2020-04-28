@@ -1,40 +1,60 @@
-body{
+/*https://coolors.co/b80c09-40434e-c33149-000000-040f0f*/
+
+body {
     font-family: 'Exo 2', sans-serif;
     height: 100vh;
+    background-color: #040F0F;
 }
 
-.container-fluid{
+.main {
     height: 100vh;
-    display: block; 
+    display: block;
     position: relative;
     overflow: hidden;
-   }
-img.bc-logo{
-    width:500px;
+    background-color: #040F0F;
 }
 
-img.fortheculture{
+img.bc-logo {
+    width: 500px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img.fortheculture {
     width: 50px;
 }
+
+img.minilogo {
+    width: 50px;
+    padding-left: 0;
+    margin-left: 0;
+    padding-bottom: 5px;
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
 
-  .footer {
-      font-size: 12px;
+.footer {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    font-size: 12px;
     position: absolute;
     width: 100vw;
-    bottom: 0; 
-    height: 60px; /* Set the fixed height of the footer here */
-    line-height: 60px; /* Vertically center the text there */
-    background-color: transparent;
-  }
-  .custom-footer{
-      color: #ffffff !important;
-      opacity: 0.75;
-  }
-  .footer span{
+    bottom: 0;
+    height: 60px;
+    /* Set the fixed height of the footer here */
+    line-height: 60px;
+    /* Vertically center the text there */
+    background-color: #C33149;
+}
 
-    padding-bottom: 10px; 
-  }
-  
+.custom-footer {
+    color: #ffffff !important;
+    opacity: 0.75;
+}
+
+.footer span {
+    padding-bottom: 10px;
+}
