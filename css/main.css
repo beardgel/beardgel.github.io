@@ -4,10 +4,12 @@ body {
     font-family: 'Exo 2', sans-serif;
     height: 100vh;
     background-color: #040F0F;
+    overflow: hidden;
 }
 
 .main {
-    height: 100vh;
+    overflow: hidden;
+    height: 80vh;
     display: block;
     position: relative;
     overflow: hidden;
@@ -15,6 +17,8 @@ body {
 }
 
 img.bc-logo {
+    top: 0 !important;
+    bottom: inherit;
     width: 500px;
     margin-left: 10%;
     margin-right: 10%;
