@@ -1,0 +1,44 @@
+{
+    "albums": [{
+            "title": "Everything Will Be Ok (Instrumental Demos)",
+            "artist": "Interframe",
+            "year": 2020,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7935c757b262851fbf01324",
+            "relasedby": "The Beardgel Collective",
+            "songwritters": ["surajpratap goraya"],
+            "pline": "2020 ℗ Interframe / The Beardgel Collective",
+            "spotify": "https://open.spotify.com/album/44MN6aEwnbDQCNx5GMvSyF?si=Gn2HR0naQRKPB7q2Bx7Mkw"
+        },
+        {
+            "title": "Ideas",
+            "artist": "Interframe",
+            "year": 2019,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357bb69c5b3bf6bbbd35b9cab",
+            "relasedby": "The Beardgel Collective",
+            "songwritters": ["surajpratap goraya"],
+            "pline": "2019 ℗ Interframe / The Beardgel Collective",
+            "spotify": "https://open.spotify.com/album/3ms5Pze7Pha7Fu0r30iqdJ?si=2Mqpn_ZuTVWK_fbusooDjg"
+        },
+        {
+            "title": "HELLO//NIGHTS",
+            "artist": "Interframe",
+            "year": 2018,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b83292b165f8ef2222145492",
+            "relasedby": "The Beardgel Collective",
+            "songwritters": ["surajpratap goraya", "chirjivan garcha"],
+            "pline": "2018 ℗ Interframe / The Beardgel Collective",
+            "spotify": "https://open.spotify.com/album/6ukxm9GR4i767xlXOjQxvI?si=6-vAxJWNRcKZn-Fr6mXEqQ"
+        },
+        {
+            "title": "Think+Release",
+            "artist": "Interframe",
+            "year": 2018,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d82782bfe798b172340e06c2",
+            "relasedby": "The Beardgel Collective",
+            "songwritters": ["surajpratap goraya"],
+            "pline": "2018 ℗ Interframe / The Beardgel Collective",
+            "spotify": "https://open.spotify.com/album/5HzB9VdGox23gABqFjdBQ0?si=jpc9WFgpS_m1drb84Rvukw"
+        }
+
+    ]
+}
