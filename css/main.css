@@ -5,23 +5,48 @@ body {
     height: 100vh;
     background-color: #040F0F;
     overflow: hidden;
+    color: #ffffff;
 }
 
-.main {
-    overflow: hidden;
-    height: 80vh;
-    display: block;
-    position: relative;
-    overflow: hidden;
-    background-color: #040F0F;
+a {
+    text-decoration: none !important;
+    color: #ffffff;
+    width: 50px !important;
+    height: 50px !important;
 }
 
-img.bc-logo {
-    top: 0 !important;
-    bottom: inherit;
-    width: 300px;
-    margin-left: 10%;
-    margin-right: 10%;
+a:hover {
+    color: #C33149;
+}
+
+.link {
+    height: 50px !important;
+    width: 75px;
+}
+
+.link:hover {
+    background-color: #ffffff;
+    color: #C33149;
+}
+
+h2 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 1em;
+}
+
+.main-intro {
+    margin: 0px 30px 15px 0px;
+}
+
+.main-intro h2 {
+    padding-left: 15px;
+}
+
+img.main-logo {
+    height: 275px;
+    margin: 30px 30px 15px 15px;
 }
 
 img.fortheculture {
@@ -47,6 +72,8 @@ img.minilogo {
     position: absolute;
     width: 100vw;
     bottom: 0;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 100;
     height: 60px;
     /* Set the fixed height of the footer here */
     line-height: 60px;
@@ -56,7 +83,7 @@ img.minilogo {
 
 .custom-footer {
     color: #ffffff !important;
-    opacity: 0.75;
+    opacity: 0.4;
 }
 
 .footer span {
